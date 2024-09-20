@@ -16,6 +16,7 @@ To implement this knowledge, I was given two tasks-
 - Analyse the data by identifying financial trends and indicators and assessing financial health and performance.
 - Format & clean the data for AI model integration
 - Develop a python model to calculate values and analyze the given data, and show your findings.
+- Draw conclusions from your findings.
 
 **TASK 2:**
 - Use the above data to develop a basic AI financial chatbot, to answer user queries related to those 3 companies based on pre-determined responses.
