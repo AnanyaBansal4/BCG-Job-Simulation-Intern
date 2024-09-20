@@ -9,6 +9,7 @@ At the beginning, I was briefed by BCG experts via video explanations and online
 I gained insights about income statements, balance sheets, cash flow statements, excel & spreadsheet tools, feature engineering, data encoding and formatting, dealing with time series data and AI Chatbot development (including NLP).
 
 To implement this knowledge, I was given two tasks-
+
 **TASK 1:**
 - Research & review 10-K documents for 3 companies
 - Extract the relevant data (financial figures & ratios)
